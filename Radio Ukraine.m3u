@@ -5,6 +5,10 @@ https://online.radiorelax.ua/RadioRelax_HD
 https://cast.mediaonline.net.ua/loungefm
 #EXTINF:-1,Мелодія FM
 https://online.melodiafm.ua/MelodiaFM_HD
+#EXTINF:-1 tvg-logo="https://www.melodiafm.ua/static/img/new/logo/logoWebSlogan.jpg",Мелодія FM
+https://online.melodiafm.ua/MelodiaFM_HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/radiopedia/images/c/c2/Melodia_FM_%28Ukraine%29_%282017%29.svg/revision/latest?cb=20191207114516&path-prefix=ru",Мелодія FM
+https://online.melodiafm.ua/MelodiaFM_HD
 #EXTINF:-1,Радіо Максимум
 https://lux.radio.tvstitch.com/kyiv/max_adv_sd
 #EXTINF:-1,Радіо Roks
@@ -15,6 +19,12 @@ https://radio.ukr.radio/ur2-mp3-m
 https://radio.ukr.radio/ur5-mp3
 #EXTINF:-1,Люкс FM
 http://lux.radio.tvstitch.com/kyiv/lux_adv_sd
+#EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/logo/HitFM_perevod1.jpg?v=1",Хіт FM
+http://online.hitfm.ua/HitFM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/radiopedia/images/2/2d/Hit_FM_%28Ukraine%29_%282017%29.svg/revision/latest?cb=20191208131404&path-prefix=ru",Хіт FM
+http://online.hitfm.ua/HitFM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/HitFM_logo_onwhite.svg/revision/latest?cb=20180904153114",Хіт FM
+http://online.hitfm.ua/HitFM
 #EXTINF:-1,Хіт FM
 http://online.hitfm.ua/HitFM
 #EXTINF:-1,Радіо Nostalgie
